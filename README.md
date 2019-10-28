@@ -3,6 +3,8 @@
 - iOS SDK VERSION 2.5.4
 - Android SDK VERSION 3.4.7
 
+#### 此项目基于[yyyyu/react-native-mta](https://github.com/yyyyu/react-native-mta)，升级ios SDK至最新2.5.4。[更新说明](http://mta.qq.com/docs/release_note_SDK.html)
+
 ## 安装
 
 ```bash

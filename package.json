@@ -1,0 +1,29 @@
+{
+  "name": "react-native-mta",
+  "author": "baiachen",
+  "version": "1.0.0",
+  "keywords": [
+    "react-native",
+    "tencent",
+    "mta",
+    "tencent"
+  ],
+  "description": "react native for tencent mta.",
+  "license": "MIT",
+  "homepage": "https://github.com/baiachen/react-native-mta",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:baiachen/react-native-mta.git"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "react-native": ">0.50.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "standard": "^11.0.1"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+}
